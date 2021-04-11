@@ -1,0 +1,21 @@
+{
+    "name": "celli-dark-theme",
+    "displayName": "Celli Dark Theme",
+    "description": "Another dark theme, but better, cooler and more beautiful than others.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Celli's Dark Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Celli's Dark Theme-color-theme.json"
+            }
+        ]
+    }
+}
